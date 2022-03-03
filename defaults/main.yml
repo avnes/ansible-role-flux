@@ -1,0 +1,5 @@
+---
+flux_version: 0.27.3
+flux_for_all_users: true
+
+command_shell: bash
