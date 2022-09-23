@@ -1,5 +1,5 @@
 ---
-flux_version: 0.33.0
+flux_version: 0.34.0
 flux_for_all_users: true
 
 command_shell: bash
